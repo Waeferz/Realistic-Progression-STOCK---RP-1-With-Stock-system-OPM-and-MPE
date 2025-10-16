@@ -3,7 +3,7 @@ Realistic Progression Stock is an experimental modification of RP-1 (Realistic P
 
 THIS MODIFICATION OF RP-1 (Realistic Progression One) IS EXPERIMENTAL - EXPECT BUGS - (As of writing this I have only minorly tested it. (16/10/25 EDIT: Came back to make this mod actually semi-playable still not tested contracting, but normal gameplay is better than it was, balancing should be fixed.))
 
-IF YOU ENCOUNTER BUGS PLEASE REPORT THEM TO-https://github.com/Waeferz/Realistic-Progression-Stock---Using-the-stock-solar-system-for-RP-1/issues
+IF YOU ENCOUNTER BUGS PLEASE REPORT THEM TO-[https://github.com/Waeferz/Realistic-Progression-Stock---Using-the-stock-solar-system-for-RP-1/issues](https://github.com/Waeferz/Realistic-Progression-STOCK---RP-1-With-Stock-system-OPM-and-MPE/issues)
 
 This mod alters all Current RP-1 Contracts, Programmes and Newspaper to fit around the Stock Kerbol System (With OPM and MPE, Specifically at 10-10.625x scale, but smaller multipliers and the original stock system could work, Just may be unbalanced due to RO's Thrust to Weight ratios)
 
